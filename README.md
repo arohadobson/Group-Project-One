@@ -30,10 +30,14 @@ The “Quote Me” app provide a new, fun way to customize your photos with quot
 
 ## Authors
 Design, UI/UX: 
+
 Kathy Erdmann: ([Git Hub](https://github.com/kerdmann1989)), 
+
 Andrew Pederson: ([Git Hub](https://github.com/slcdrew)), 
 
 Back end: 
+
 Chris Freckleton: ([Git Hub](https://github.com/TheFreck)),
+
 Aroha Dobson: ([Git Hub](https://github.com/arohadobson)), 
 
